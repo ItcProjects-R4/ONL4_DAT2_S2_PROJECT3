@@ -1,1 +1,132 @@
+# 🌍 Global Energy Consumption Dashboard
+
+## 📖 Project Overview
+
+The **Global Energy Consumption Dashboard** is an interactive business intelligence project developed using **Power BI**. It provides comprehensive insights into global energy consumption trends by analyzing multiple energy sources across different countries and years.
+
+The dashboard enables users to explore historical energy data, compare energy sources, identify consumption patterns, and make data-driven observations through interactive visualizations.
+
+---
+
+## 🎯 Project Objectives
+
+* Analyze global energy consumption over time.
+* Compare different energy sources.
+* Identify trends and patterns in energy usage.
+* Provide an interactive dashboard for data exploration.
+* Support decision-making through visual analytics.
+
+---
+
+## 🛠️ Technologies Used
+
+* Microsoft Power BI
+* Power Query
+* DAX (Data Analysis Expressions)
+* Microsoft Excel / CSV Files
+* Git & GitHub
+
+---
+
+## 📂 Dataset
+
+The dataset was obtained from **Kaggle** and contains historical global energy consumption data, including multiple energy sources across various countries and years.
+
+---
+
+## 📊 Dashboard Features
+
+* Interactive Dashboard
+* KPI Cards
+* Bar Charts
+* Line Charts
+* Pie & Donut Charts
+* Tables
+* Slicers and Filters
+* Country Comparison
+* Energy Source Analysis
+* Time Trend Analysis
+
+---
+
+## 📈 Key Insights
+
+The dashboard allows users to:
+
+* Compare energy consumption between countries.
+* Analyze yearly energy consumption trends.
+* Explore the contribution of different energy sources.
+* Filter data dynamically by country and year.
+* Monitor key performance indicators using interactive visuals.
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository.
+
+```bash
+git clone <repository-link>
+```
+
+2. Open the `.pbix` file using **Microsoft Power BI Desktop**.
+
+3. Refresh the dataset if needed.
+
+4. Explore the interactive dashboard.
+
+---
+
+## 📁 Project Structure
+
+```
+📦 Energy Project
+│
+├── Dataset/
+├── Power Bi/
+├── Images/
+├── README.md
+└── Documentation/
+```
+
+---
+
+## 📸 Dashboard Preview
+
+> Add screenshots of your dashboard here.
+
+Example:
+
+```
+Images/
+ ├── overview.png
+ ├── trends.png
+ ├── country-analysis.png
+```
+
+---
+
+## 👥 Team Members
+
+* Amr Sameh Sholah
+* Abdalla Selim Ahmed Selim
+* Ahmed Khorshid Abdelhamed Harfoush
+* Youssef Ashraf Fawzy
+* Shahd Madeeh Abdelzaher
+* Youseef Mohamed Abdelhalim Deghady
+
+---
+
+## 🔮 Future Improvements
+
+* Add real-time energy data.
+* Integrate forecasting models.
+* Publish the dashboard to Power BI Service.
+* Expand the dataset with additional countries and indicators.
+
+---
+
+## 📄 License
+
+This project was developed for educational purposes.
 
