@@ -1,40 +1,43 @@
-# 🌍 Global Energy Consumption Dashboard
+ Global Energy Consumption Dashboard
 
-## 📖 Project Overview
+ Project Overview
 
-The **Global Energy Consumption Dashboard** is an interactive business intelligence project developed using **Power BI**. It provides comprehensive insights into global energy consumption trends by analyzing multiple energy sources across different countries and years.
+The Global Energy Consumption Dashboard is an interactive business intelligence project developed using Power BI. It provides comprehensive insights into global
+energy consumption trends by analyzing multiple energy sources across different countries and years.
 
-The dashboard enables users to explore historical energy data, compare energy sources, identify consumption patterns, and make data-driven observations through interactive visualizations.
+The dashboard enables users to explore historical energy data, compare energy sources, identify consumption patterns, and make data-driven observations through 
+interactive visualizations.
 
----
 
-## 🎯 Project Objectives
+ Project Objectives
 
-* Analyze global energy consumption over time.
-* Compare different energy sources.
-* Identify trends and patterns in energy usage.
-* Provide an interactive dashboard for data exploration.
-* Support decision-making through visual analytics.
+ Analyze global energy consumption over time.
+ Compare different energy sources.
+ Identify trends and patterns in energy usage.
+ Provide an interactive dashboard for data exploration.
+ Support decision-making through visual analytics.
 
----
 
-## 🛠️ Technologies Used
+
+ Technologies Used
 
 * Microsoft Power BI
 * Power Query
 * DAX (Data Analysis Expressions)
 * Microsoft Excel / CSV Files
 * Git & GitHub
+* Python
+*SQl
 
----
 
-## 📂 Dataset
 
-The dataset was obtained from **Kaggle** and contains historical global energy consumption data, including multiple energy sources across various countries and years.
+ Dataset
 
----
+The dataset was obtained from "Kaggle" and contains historical global energy consumption data, including multiple energy sources across various countries and years.
 
-## 📊 Dashboard Features
+
+
+ Dashboard Features
 
 * Interactive Dashboard
 * KPI Cards
@@ -47,9 +50,8 @@ The dataset was obtained from **Kaggle** and contains historical global energy c
 * Energy Source Analysis
 * Time Trend Analysis
 
----
 
-## 📈 Key Insights
+Key Insights
 
 The dashboard allows users to:
 
@@ -59,15 +61,11 @@ The dashboard allows users to:
 * Filter data dynamically by country and year.
 * Monitor key performance indicators using interactive visuals.
 
----
 
-## 🚀 How to Run the Project
+
+ How to Run the Project
 
 1. Clone the repository.
-
-```bash
-git clone <repository-link>
-```
 
 2. Open the `.pbix` file using **Microsoft Power BI Desktop**.
 
@@ -75,38 +73,30 @@ git clone <repository-link>
 
 4. Explore the interactive dashboard.
 
----
 
-## 📁 Project Structure
 
-```
-📦 Energy Project
+ Project Structure
+
+
+ Energy Project
 │
 ├── Dataset/
-├── Power Bi/
+├── Analysis/
 ├── Images/
 ├── README.md
 └── Documentation/
-```
 
----
 
-## 📸 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+Images
 
-Example:
 
-```
-Images/
- ├── overview.png
- ├── trends.png
- ├── country-analysis.png
-```
 
----
 
-## 👥 Team Members
+
+
+
+ Team Members
 
 * Amr Sameh Sholah
 * Abdalla Selim Ahmed Selim
@@ -115,18 +105,18 @@ Images/
 * Shahd Madeeh Abdelzaher
 * Youseef Mohamed Abdelhalim Deghady
 
----
 
-## 🔮 Future Improvements
+
+ Future Improvements
 
 * Add real-time energy data.
 * Integrate forecasting models.
 * Publish the dashboard to Power BI Service.
 * Expand the dataset with additional countries and indicators.
 
----
 
-## 📄 License
+
+ License
 
 This project was developed for educational purposes.
 
